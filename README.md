@@ -23,7 +23,7 @@
 5) The bot is running :)
 6) Enjoy it!
   
-  <center><img src="https://user-images.githubusercontent.com/97753966/178020464-70bd920d-9c0a-434d-a5e2-f20b2af25750.gif"></center> 
+  <center><img src="https://user-images.githubusercontent.com/97753966/178031992-eeadb5a9-6cb6-4f2a-8418-693d71b7155d.gif"></center> 
   
     
 
